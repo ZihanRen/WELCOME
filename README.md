@@ -1,4 +1,5 @@
-# Trial
-Trial of creating new project
-Third line reprents second commit by myself to this project
-f
+# WELCOME
+
+Hey friend, welcome to my github page. Some interesting projects are waiting to be uploaded.
+Zihan
+
